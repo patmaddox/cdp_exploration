@@ -16,4 +16,4 @@ done
 
 submix interleave gen/babbling_brook_blurred_c1.wav \
   gen/babbling_brook_blurred_c2.wav gen/babbling_brook_blurred_stereo.wav
-play gen/babbling_brook_blurred_stereo.wav
+paplay -i gen/babbling_brook_blurred_stereo.wav

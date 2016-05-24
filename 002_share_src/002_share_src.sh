@@ -15,4 +15,4 @@ if [ $(ls -A "$project_path"/gen) ]; then
 fi
 
 filter fixed 1 "$base_path"/001_basics/src/babbling_brook.wav "$project_path"/gen/babbling_brook_high_pass.wav -36 1200
-play "$project_path"/gen/babbling_brook_high_pass.wav
+paplay -i "$project_path"/gen/babbling_brook_high_pass.wav
