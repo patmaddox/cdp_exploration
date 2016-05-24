@@ -16,4 +16,5 @@ Run each experiment from their own directory. Otherwise stuff won't work
 
 # Nifty stuff
 
-Create a new experiment with `new_experiment.sh`
+* Create a new experiment with `new_experiment.sh`
+* Cleanup generated files with `cleanup.sh`
