@@ -38,3 +38,12 @@ But here are a couple things I'm thinking of:
 1. Pitch bend
 2. Filtered noise sweep
 3. Rhythmic sequencing
+
+----
+
+I've got the hang of making basic sounds. Now I think it's up to me to explore
+CDP's different functionality and see what I can do with it.
+
+I'm also interested in composable sounds. Taking a variety of envelope
+properties and transformations and combining them to create interesting new
+sounds. Which gives me an idea...
