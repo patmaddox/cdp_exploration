@@ -8,3 +8,8 @@ The basic workflow I'd like to try is:
 
 I want this process to be extremely fast. Not sure how I can accomplish it
 yet...
+
+# Conventions
+
+Run each experiment from their own directory. Otherwise stuff won't workf
+(thanks bash!)
