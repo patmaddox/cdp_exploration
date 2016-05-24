@@ -18,9 +18,9 @@ The process is simple:
 4. Compare the original and processed files
 
 16-bit should be different - jacking up the gain will clip it, and there's no
-recovering from that. 32-bit (NO_CLIP_FLOATS=1) should be before and after
-processing. And then there's the scenario where the variable isn't set... I
-guess that will clip. It's a bit of a bummer that you even have to remember
+recovering from that. 32-bit (NO_CLIP_FLOATS=1) should be identical before and
+after processing. And then there's the scenario where the variable isn't set...
+I guess that will clip. It's a bit of a bummer that you even have to remember
 that, because the whole reason for floating to point is to not have to think
 about that sort of thing. We'll see what happens.
 
