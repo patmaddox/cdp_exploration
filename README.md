@@ -11,5 +11,9 @@ yet...
 
 # Conventions
 
-Run each experiment from their own directory. Otherwise stuff won't workf
+Run each experiment from their own directory. Otherwise stuff won't work
 (thanks bash!)
+
+# Nifty stuff
+
+Create a new experiment with `new_experiment.sh`
