@@ -14,3 +14,9 @@ taking too big of a step. So I renamed it to `006_stereo_analysis` and created
 
 I still think `006_stereo_analysis` is a bit bigger than I'd normally like, but
 I'm feeling pretty confident right now...
+
+----
+
+When I create a new experiment, I build it up one line at a time. I make sure
+that works, and then I move on to the next line. It's TDD but without the
+automated framework!
