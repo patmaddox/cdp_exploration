@@ -6,6 +6,6 @@ if [ ! -d gen ]; then
   mkdir gen
 fi
 
-if [ $(ls -A gen) ]; then
+if [ "$(ls -A gen)" ]; then
   rm gen/*
 fi
