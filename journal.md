@@ -20,3 +20,9 @@ I'm feeling pretty confident right now...
 When I create a new experiment, I build it up one line at a time. I make sure
 that works, and then I move on to the next line. It's TDD but without the
 automated framework!
+
+----
+
+When my experiment `007_stereo_trick` didn't go as expected, I browsed through
+the CDP manual and found something incredibly useful. Sometimes you learn the
+most when things go wrong...
