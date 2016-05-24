@@ -9,10 +9,14 @@ The basic workflow I'd like to try is:
 I want this process to be extremely fast. Not sure how I can accomplish it
 yet...
 
-# Conventions
+# How to run the exercises
 
 Run each experiment from their own directory. Otherwise stuff won't work
-(thanks bash!)
+(thanks bash!).
+
+For example...
+
+`cd 001_basics && ./001_basics.sh`
 
 # Nifty stuff
 
