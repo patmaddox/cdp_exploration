@@ -1,4 +1,5 @@
-I'm exploring CDP. This repo contains my experiments.
+I'm exploring [CDP](http://www.composersdesktop.com). This repo contains my
+experiments.
 
 The basic workflow I'd like to try is:
 
